@@ -1,0 +1,26 @@
+#root {
+  
+}
+
+.app-body {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ppt-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.ppt-item {
+  margin-right: 40px;
+  margin-top: 20px;
+}
+
+.ppt-item img{
+  width: 250px;
+  height: 140px;
+}
